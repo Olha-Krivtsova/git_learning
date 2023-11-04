@@ -5,5 +5,5 @@ I'm here
 new README
 one more string
 seventh line
-delete seventh line
-add ninth line
+delete the seventh line
+add the ninth line
