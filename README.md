@@ -7,3 +7,4 @@ one more string
 seventh line
 delete the seventh line
 add the ninth line
+add the tenth line
