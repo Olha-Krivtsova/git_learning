@@ -1,3 +1,9 @@
 # git_learning
 
-new redaction
+hi there!
+I'm here
+new README
+one more string
+seventh line
+delete the seventh line
+add the ninth line
