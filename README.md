@@ -6,3 +6,4 @@ new README
 one more string
 7-th line
 8-th line
+9-th line
